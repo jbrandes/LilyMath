@@ -7,5 +7,5 @@ This was very much an experimental process to see what each of the programs coul
 
 For instance, once put into a list and copied to a clipboard the Python ouptut could be cleaned up using the find and replace option in Word. After that it was a matter of loading the data into Lilypond which became a much more difficult ordeal.
 
-I tried numerous time increments starting first at three minutes then cutting it shorter and shorter. I assumed five seconds would be long enough but it turns out one second is the magic number. One second produces three pages of sheet music in Lilypond. Below you will see my results. 
+I tried numerous time increments starting first at three minutes then cutting it shorter and shorter. I assumed five seconds would be long enough but it turns out one second is the magic number. One second produces three pages of sheet music in Lilypond. The results are listed as pages 1-3 in the repo.
 
