@@ -9,4 +9,4 @@ def ran_gen(size, chars=string.ascii_letters):
 max_time = int(input('Enter the amount of seconds you want to run this: '))
 start_time = time.time()  # remember when we started
 while (time.time() - start_time) < max_time:
-    print(list(ran_gen(10, "abcdef")))
+    print(list(ran_gen(10, "abcdefgABCDEFG")))
